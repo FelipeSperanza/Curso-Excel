@@ -1,0 +1,10 @@
+git config --global user.name "<nome>"
+git config --global user.email "<email>"
+
+git init
+git status
+git add .
+git commit -m "nome"
+git remote add origin <endereço>
+git push -u origin master(branch)  - subir arquivos
+git pull - baixar arquivos
